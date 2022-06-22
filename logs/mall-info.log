@@ -1,0 +1,13 @@
+2022-06-15 21:09:27.094 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarting,55] - Starting NewBeeMallPlusApplication using Java 1.8.0_333 on DESKTOP-QQR3F41 with PID 21624 (D:\文稿\idea\newbee-mall-plus-main\target\classes started by joker in D:\文稿\idea\newbee-mall-plus-main)
+2022-06-15 21:09:27.099 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStartupProfileInfo,646] - The following 1 profile is active: "dev"
+2022-06-15 21:09:29.347 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-06-15 21:09:31.402 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.17.Final
+2022-06-15 21:09:31.410 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.6.Final
+2022-06-15 21:09:31.423 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.6.Final
+2022-06-15 21:09:31.480 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-06-15 21:09:31.560 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarted,61] - Started NewBeeMallPlusApplication in 4.895 seconds (JVM running for 7.853)
+2022-06-15 21:09:31.582 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-06-15 21:09:31.846 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-06-15 21:09:40.621 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-15 21:11:11.859 [XNIO-1 task-7] INFO  ltd.newbee.mall.controller.mall.OrderController - [paySuccess,221] - 支付宝paySuccess通知数据记录：orderNo: 16552986227591020, payType：2
+2022-06-15 21:13:12.914 [XNIO-1 task-4] INFO  ltd.newbee.mall.controller.mall.OrderController - [paySuccess,221] - 支付宝paySuccess通知数据记录：orderNo: 16552987893081840, payType：2

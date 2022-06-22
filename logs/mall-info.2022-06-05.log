@@ -1,0 +1,15 @@
+2022-06-05 22:28:56.701 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarting,55] - Starting NewBeeMallPlusApplication using Java 1.8.0_333 on DESKTOP-QQR3F41 with PID 13412 (D:\文稿\idea\newbee-mall-plus-main\target\classes started by joker in D:\文稿\idea\newbee-mall-plus-main)
+2022-06-05 22:28:56.708 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStartupProfileInfo,646] - The following 1 profile is active: "dev"
+2022-06-05 22:29:00.155 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-06-05 22:29:02.683 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.17.Final
+2022-06-05 22:29:02.691 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.6.Final
+2022-06-05 22:29:02.699 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.6.Final
+2022-06-05 22:29:02.767 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-06-05 22:29:02.884 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarted,61] - Started NewBeeMallPlusApplication in 7.389 seconds (JVM running for 9.882)
+2022-06-05 22:29:02.915 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-06-05 22:29:03.151 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-06-05 22:29:15.076 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-05 23:19:46.100 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.17.Final
+2022-06-05 23:19:46.204 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-06-05 23:19:46.410 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-06-05 23:19:46.439 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.

@@ -1,0 +1,30 @@
+2022-06-06 09:14:27.408 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarting,55] - Starting NewBeeMallPlusApplication using Java 1.8.0_333 on DESKTOP-QQR3F41 with PID 6280 (D:\文稿\idea\newbee-mall-plus-main\target\classes started by joker in D:\文稿\idea\newbee-mall-plus-main)
+2022-06-06 09:14:27.416 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStartupProfileInfo,646] - The following 1 profile is active: "dev"
+2022-06-06 09:14:29.191 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-06-06 09:14:30.455 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.17.Final
+2022-06-06 09:14:30.465 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.6.Final
+2022-06-06 09:14:30.473 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.6.Final
+2022-06-06 09:14:30.509 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-06-06 09:14:30.565 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarted,61] - Started NewBeeMallPlusApplication in 4.313 seconds (JVM running for 6.635)
+2022-06-06 09:14:30.579 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-06-06 09:14:30.685 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-06-06 09:14:48.686 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-06 09:45:06.174 [SpringApplicationShutdownHook] INFO  io.undertow - [stop,259] - stopping server: Undertow - 2.2.17.Final
+2022-06-06 09:45:06.179 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - [log,382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-06-06 09:45:06.313 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,350] - hikariCP - Shutdown initiated...
+2022-06-06 09:45:06.322 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - [close,352] - hikariCP - Shutdown completed.
+2022-06-06 11:12:43.276 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarting,55] - Starting NewBeeMallPlusApplication using Java 1.8.0_333 on DESKTOP-QQR3F41 with PID 20112 (D:\文稿\idea\newbee-mall-plus-main\target\classes started by joker in D:\文稿\idea\newbee-mall-plus-main)
+2022-06-06 11:12:43.278 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStartupProfileInfo,646] - The following 1 profile is active: "dev"
+2022-06-06 11:12:44.435 [main] INFO  io.undertow.servlet - [log,382] - Initializing Spring embedded WebApplicationContext
+2022-06-06 11:12:45.692 [main] INFO  io.undertow - [start,120] - starting server: Undertow - 2.2.17.Final
+2022-06-06 11:12:45.697 [main] INFO  org.xnio - [<clinit>,95] - XNIO version 3.8.6.Final
+2022-06-06 11:12:45.702 [main] INFO  org.xnio.nio - [<clinit>,58] - XNIO NIO Implementation Version 3.8.6.Final
+2022-06-06 11:12:45.725 [main] INFO  org.jboss.threads - [<clinit>,52] - JBoss Threads version 3.1.0.Final
+2022-06-06 11:12:45.772 [main] INFO  ltd.newbee.mall.NewBeeMallPlusApplication - [logStarted,61] - Started NewBeeMallPlusApplication in 3.117 seconds (JVM running for 4.342)
+2022-06-06 11:12:45.785 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,110] - hikariCP - Starting...
+2022-06-06 11:12:45.893 [main] INFO  com.zaxxer.hikari.HikariDataSource - [getConnection,123] - hikariCP - Start completed.
+2022-06-06 11:12:49.524 [XNIO-1 task-1] INFO  io.undertow.servlet - [log,382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-06 11:47:28.685 [pool-1-thread-1] INFO  ltd.newbee.mall.task.OrderUnPaidTask - [run,47] - 系统开始处理延时任务---订单超时未付款--- 112
+2022-06-06 11:47:28.705 [pool-1-thread-1] INFO  ltd.newbee.mall.task.OrderUnPaidTask - [run,93] - 系统结束处理延时任务---订单超时未付款--- 112
+2022-06-06 11:49:58.662 [pool-1-thread-1] INFO  ltd.newbee.mall.task.OrderUnPaidTask - [run,47] - 系统开始处理延时任务---订单超时未付款--- 113
+2022-06-06 11:49:58.687 [pool-1-thread-1] INFO  ltd.newbee.mall.task.OrderUnPaidTask - [run,93] - 系统结束处理延时任务---订单超时未付款--- 113
